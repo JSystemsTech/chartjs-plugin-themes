@@ -1,0 +1,8 @@
+{
+  "name": "chartjs-plugin-themes",
+  "description": "Themes for Chart.js",
+  "version": "1.0.0",
+  "author": "JSystemsTech",
+  "license": "MIT",
+  "type": "module"
+}
